@@ -4,9 +4,14 @@
 
 <p align="center">
   <samp> 
-I am a Junior Year Student  currently percieving my Bachelors in Artificial Intelligence at GHRCE, Nagpur. My skill set include working with Machine Learning, Natural Language Processing and Computer Vision Algorihms. I have Perform Research based on Application of Artifcial Intelligence in  field of Cybersecurity and HealthCare which are acceptanced  by  Scopus index and SCI journal. 
+I am a Junior Year Student  currently percieving my Bachelors in Artificial Intelligence at GHRCE, Nagpur. My skill set include working with Machine Learning, Natural Language Processing and Computer Vision Algorihms. I have Perform Research based on Application of Artifcial Intelligence in  field of Cybersecurity and HealthCare which are acceptanced  by  Scopus index and SCI journal.    
   </samp>  
   <br>
+  
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=gauav3435&label=Profile+Views" alt="gaurav3435" />  
+    </p>
+    
   <br> 
 </p>
 
