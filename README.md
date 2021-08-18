@@ -4,17 +4,25 @@
 
 <p align="center">
   <samp> 
-I am a Junior Year Student  currently percieving my Bachelors in Artificial Intelligence at GHRCE, Nagpur. My skill set include working with Machine Learning, Natural Language Processing and Computer Vision Algorihms. I have Perform Research based on Application of Artifcial Intelligence in  field of Cybersecurity and HealthCare which are acceptanced  by  Scopus index and SCI journal.    
+    <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" align = "right" width = 250, height = 250>
+     <br>
+    I am a Junior Year Student  currently percieving my Bachelors in Artificial Intelligence at GHRCE, Nagpur. My skill set include working with Machine Learning, Natural Language Processing and Computer Vision Algorihms. I have Perform Research based on Application of Artifcial Intelligence in  field of Cybersecurity and HealthCare which are acceptanced  by  Scopus index and SCI journal.    
+    
   </samp>  
-  <br>
   
+  <br>
+  <br>
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=gauav3435&label=Profile+Views" alt="gaurav3435" />  
     </p>
     
   <br> 
+  
+  
 </p>
 
+<br>
+<br>
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Django-4%2F5-green" />
@@ -57,3 +65,5 @@ I am a Junior Year Student  currently percieving my Bachelors in Artificial Inte
   <a target="_blank"href="/https://twitter.com/Gauravpatil3435"><img src="https://img.shields.io/badge/Twitter-Link-yellowgreen" /></a>
   <a target="_blank"href="mailto:gauravpatil22301@outlook.com?subject=Hello%20Gaurav,%20From%20Github"><img src="https://img.shields.io/badge/E_Mail-Link-yellowgreen"/></a>
 </p>
+
+
