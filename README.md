@@ -47,15 +47,7 @@
 </p>
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav3435&layout=compact)](https://github.com/gaurav3435/github-readme-stats" alt="gaurav3435" />
-</p>
 
-
-<h2 align="center"> Github Stats </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav3435&&show_icons=true&hide_border=true" alt="gaurav3435" />
-</p>
 
 
 
