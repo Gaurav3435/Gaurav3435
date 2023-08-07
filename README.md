@@ -6,7 +6,7 @@
   <samp> 
     <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" align = "right" width = 250, height = 250>
      <br>
-    I am a Junior Year Student  currently percieving my Bachelors in Artificial Intelligence at GHRCE, Nagpur. My skill set include working with Machine Learning, Natural Language Processing and Computer Vision Algorihms. I have Perform Research based on Application of Artifcial Intelligence in  field of Cybersecurity and HealthCare which are acceptanced  by  Scopus index and SCI journal.    
+    I am AI developer graduated in Bachelors in Artificial Intelligence. My skill set include working with Machine Learning, Natural Language Processing and Computer Vision Algorihms. I have Perform Research based on Application of Artifcial Intelligence in  field of Cybersecurity and HealthCare which are acceptanced  by  Scopus index and SCI journal.    
     
   </samp>  
   
