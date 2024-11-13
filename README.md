@@ -6,7 +6,11 @@
   <samp> 
     <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" align = "right" width = 250, height = 250>
      <br>
-    I am AI developer graduated in Bachelors in Artificial Intelligence. My skill set include working with Machine Learning, Natural Language Processing and Computer Vision Algorihms. I have Perform Research based on Application of Artifcial Intelligence in  field of Cybersecurity and HealthCare which are acceptanced  by  Scopus index and SCI journal.    
+    Results driven researcher with a Master’s in Computer Science specializing in AI and a proven
+history of creating innovative solutions through industry projects, publications, patents, and research internships.
+Experienced in utilizing advanced machine learning techniques to achieve notable performance enhancements.
+Committed to leveraging technical expertise and collaborative skills to make impactful contributions in a
+dynamic research environment.    
     
   </samp>  
   
