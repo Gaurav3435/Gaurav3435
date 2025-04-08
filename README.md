@@ -6,11 +6,10 @@
   <samp> 
     <img src = "https://octodex.github.com/images/daftpunktocat-thomas.gif" align = "right" width = 250, height = 250>
      <br>
-    Results driven researcher with a Master’s in Computer Science specializing in AI and a proven
-history of creating innovative solutions through industry projects, publications, patents, and research internships.
-Experienced in utilizing advanced machine learning techniques to achieve notable performance enhancements.
-Committed to leveraging technical expertise and collaborative skills to make impactful contributions in a
-dynamic research environment.    
+    Results-driven Professional with a Master’s in Computer Science focused in AI and hands-on experience in
+developing cutting-edge AI solutions. Skilled in deploying machine learning algorithms, optimizing models, and
+conducting research to solve real-world challenges. Proven ability to collaborate in multidisciplinary teams and
+drive impactful contributions. 
     
   </samp>  
   
@@ -31,12 +30,20 @@ dynamic research environment.
 <p align="center">
   <img src="https://img.shields.io/badge/Django-4%2F5-green" />
   <img src="https://img.shields.io/badge/Tensorflow-4%2F5-green" />
+  <img src="https://img.shields.io/badge/PyTorch-4%2F5-green" />
   <img src="https://img.shields.io/badge/sklearn-4%2F5-green" />
   <img src="https://img.shields.io/badge/Pandas-4%2F5-green" />
   <img src="https://img.shields.io/badge/Numpy-4%2F5-green" />
   <img src="https://img.shields.io/badge/Matplotlib-4%2F5-green" />
   <img src="https://img.shields.io/badge/Seaborn-4%2F5-green" />
-   <img src="https://img.shields.io/badge/Tkinter-4%2F5-green" />
+  <img src="https://img.shields.io/badge/Tkinter-4%2F5-green" />
+  <img src="https://img.shields.io/badge/Langchain-4%2F5-green" />
+  <img src="https://img.shields.io/badge/Huggingface-4%2F5-green" />
+  <img src="https://img.shields.io/badge/Ollama-4%2F5-green" />
+  <img src="https://img.shields.io/badge/PhiData-4%2F5-green" />
+  <img src="https://img.shields.io/badge/Flask-4%2F5-green" />
+  <img src="https://img.shields.io/badge/MlFlow-4%2F5-green" />
+  <img src="https://img.shields.io/badge/FastAPI-4%2F5-green" />
   <br>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -59,7 +66,7 @@ dynamic research environment.
 <p align="center">
   <a target="_blank"href="/https://www.linkedin.com/in/gaurav-patil-142aab193/"><img src="https://img.shields.io/badge/LinkedIn-Link-yellowgreen" /></a>
   <a target="_blank"href="/https://twitter.com/Gauravpatil3435"><img src="https://img.shields.io/badge/Twitter-Link-yellowgreen" /></a>
-  <a target="_blank"href="mailto:gauravpatil22301@outlook.com?subject=Hello%20Gaurav,%20From%20Github"><img src="https://img.shields.io/badge/E_Mail-Link-yellowgreen"/></a>
+  <a target="_blank"href="mailto:gpatil@uwo.ca?subject=Hello%20Gaurav,%20From%20Github"><img src="https://img.shields.io/badge/E_Mail-Link-yellowgreen"/></a>
 </p>
 
 
